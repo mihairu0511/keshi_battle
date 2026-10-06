@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Keshi Battle
 
-Author: (TODO: your name)
+Author: Mikhail Titov
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: This is a simple Keshigomu (Eraser) battle game where you flick an eraser to knock off opponent's erasers.
 
 Screen Shot:
 
@@ -10,12 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-## Extra Credit
-
-Are your Physics Deterministic? If so, how can we verify this?
-
-Are your Physics Rewindable? If so, how can we verify this?
+Aim using mouse / track pad and use space bar to flick the eraser. You can hold the space bar to increase the flicking power. You will win once you knock all 4 opponent's eraser, and you will lose if you get knocked off. 
 
 This game was built with [NEST](NEST.md).
